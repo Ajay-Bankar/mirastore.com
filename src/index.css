@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* input box */
+
+::placeholder{
+    font-size: 16px;
+    letter-spacing: 3px;
+    
+    
+}
